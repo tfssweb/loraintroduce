@@ -4,7 +4,13 @@
 
 
 
-​	服务搭建只需要执行`docker-compose up -d`即可搭建完毕，具体内容如下：
+​	Lora服务搭建只需要执行`docker-compose up -d`一条命令即可搭建完毕，搭建完后会启动如下7个服务：
+
+![lora0](_images/0.png)
+
+
+
+​	具体文件如下：
 
 
 
