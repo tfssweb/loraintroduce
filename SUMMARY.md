@@ -5,7 +5,7 @@
   - [张家口智慧生态平台的搭建](done/zhangjk.md)
   - [执法仪](done/zhifayi.md)
   - [摄像头](done/shexiangtou.md)
-  - [docker技术整理](done/docker.md)
+  - [docker相关](done/docker.md)
   - [省站对接报表导出](done/baobiao.md)
 - [2、长线任务]()
     - [Lora Server搭建](lora/dajian.md)
