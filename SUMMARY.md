@@ -1,6 +1,6 @@
 # [使用Docker部署LoraServer](SUMMARY.md)
 
-- [Docker 简介](docker/introduction/README.md)
+- [1、做过什么](docker/introduction/README.md)
   - [什么是 Docker](docker/introduction/what.md)
   - [为什么要用 Docker](docker/introduction/why.md)
 - [基本概念](docker/basic_concept/README.md)
